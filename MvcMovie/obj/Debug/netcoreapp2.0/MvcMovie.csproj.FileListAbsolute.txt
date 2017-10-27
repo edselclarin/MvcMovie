@@ -1,0 +1,11 @@
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+F:\Sandbox\WebSites\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
